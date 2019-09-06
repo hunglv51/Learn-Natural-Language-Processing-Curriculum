@@ -75,6 +75,7 @@ Join the #NLP_curriculum channel in our Slack channel to find one http://wizards
 - Ch 10 Deep Learning Book on Sequence Modeling http://www.deeplearningbook.org/contents/rnn.html 
 ### Project
 - 3 Assignments, create a translator and a summarizer. All seq2seq models. In pytorch.
+- Addition resources: https://github.com/bentrevett/pytorch-seq2seq
 
 ## Week 6 - Dialogue Systems
 ### Description
